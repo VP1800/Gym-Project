@@ -1,2 +1,2 @@
-# Gym-Project
+# Gym-Management
 gym management
